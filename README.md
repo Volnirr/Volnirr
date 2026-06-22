@@ -1,16 +1,25 @@
-## Hi there 👋
+# Liam Gillaspy
+ 
+I build and design embedded firmware and FPGAs. Logic on the chip, and the software that drives it, mostly C and Verilog.
 
-<!--
-**Volnirr/Volnirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
+**Languages:** C, Python, Verilog, Bash
 
-Here are some ideas to get you started:
+**Embedded:** STM32, bare-metal, SPI, I2C, UART, DMA
+ 
+**FPGA and RTL:** Verilog, mainly on the Lattice ECP5.
+ 
+**Linux:** Sys-admin and self-hosted infrastructure.
+ 
+## Projects
+ 
+**verilog-uart.** UART transceiver written in Verilog. Tested on the Lattice ECP5 on the ULX3S board.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**mo2-map.** Web application for the game Mortal Online 2. Full stack, nginx with automated TLS.
+ 
+**p100-inference-server.** GPU inference server with dual P100, proxmox, and PCIe passthrough. Running web services and local language models.
+
+## Contact
+
+Email: liam@liamgillaspy.com
+Website: https://liamgillaspy.com
